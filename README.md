@@ -8,7 +8,10 @@
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
-<p>I’m a problem solver and full stack engineer. I love to solve problems and learn new technologies. I love writing about my learnings on my blog and helping other developers grow. My interests include  CSS, TailwindCSS, Javascript, React, Node, express, MongoDB, MySQL and others. My goal is to make the world a better place by helping organizations solve their digital problems effectively.</p>
+<p>I’m a problem solver and front-end engineer. I am passionate about solving
+problems and learning about new technologies. I enjoy blogging about my
+experiences and helping other developers grow. My goal is to make the world a
+better place by helping organizations solve their digital problems effectively.</p>
 
 ### Technologies & Tools
 <p>

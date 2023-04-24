@@ -8,10 +8,11 @@
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
-<p>I’m a problem solver and front-end engineer. I am passionate about solving
-problems and learning about new technologies. I enjoy blogging about my
-experiences and helping other developers grow. My goal is to make the world a
-better place by helping organizations solve their digital problems effectively.</p>
+<p>I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, React.js,
+Node.js, Express.js, MongoDB and MySQL. The majority of my projects revolve
+around designing, developing, and deploying responsive and scalable web
+applications. I am confident in my ability to contribute to any project or team due
+to my passion for technology and commitment to delivering quality work.</p>
 
 ### Technologies & Tools
 <p>

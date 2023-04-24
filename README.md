@@ -37,6 +37,6 @@ better place by helping organizations solve their digital problems effectively.<
 
 Recent articles:
 <h4><a href="https://www.freecodecamp.org/news/what-is-dom-in-javascript/">What is the DOM? A Behind-the-Scenes Guide<a/></h4>
-<h4><a href="https://kedar98.hashnode.dev/the-fascinating-science-of-javascript-behind-the-scene-part-1">The Fascinating Science of JavaScript: Behind the Scene (part-1)<a/></h4>
-<h4><a href="https://kedar98.hashnode.dev/the-fascinating-science-of-javascript-behind-the-scene-part-2">The Fascinating Science of JavaScript: Behind the Scene (part-2)<a/></h4>
-<h4><a href="https://kedar98.hashnode.dev/one-stop-for-array-in-javascript">One Stop For Array In JavaScript<a/></h4>
+<h4><a href="https://www.freecodecamp.org/news/asynchronous-javascript/">How Asynchronous JavaScript Works<a/></h4>
+<h4><a href="https://www.freecodecamp.org/news/object-oriented-programming-javascript/">Object-Oriented Programming in JavaScript<a/></h4>
+<h4><a href="https://www.freecodecamp.org/news/numbers-and-dates-in-javascript/">How to Work with Numbers and Dates in JavaScript<a/></h4>

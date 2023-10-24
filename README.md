@@ -8,11 +8,8 @@
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
-<p>I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, React.js,
-Node.js, Express.js, MongoDB and MySQL. The majority of my projects revolve
-around designing, developing, and deploying responsive and scalable web
-applications. I am confident in my ability to contribute to any project or team due
-to my passion for technology and commitment to delivering quality work.</p>
+<p>I'm a full stack developer on a mission to transform ideas into digital reality. My work revolves around blending the art of coding with a deep-rooted problem-solving mindset.
+I'm driven by the endless possibilities technology offers and committed to crafting solutions that not only meet user needs but also leave a lasting impact. I am dedicated to creating accessible and efficient products that enhance the digital landscape.</p>
 
 ### Technologies & Tools
 <p>

@@ -8,7 +8,7 @@
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
-<p>I'm a full stack developer on a mission to transform ideas into digital reality. My work revolves around blending the art of coding with a deep-rooted problem-solving mindset.
+<p>I'm a Full Stack Developer, with a focus on Frontend Development, on a mission to transform ideas into digital reality. My work revolves around blending the art of coding with a deep-rooted problem-solving mindset.
 I'm driven by the endless possibilities technology offers and committed to crafting solutions that not only meet user needs but also leave a lasting impact. I am dedicated to creating accessible and efficient products that enhance the digital landscape.</p>
 
 ### Technologies & Tools

@@ -3,9 +3,7 @@
 <a href="https://twitter.com/Kedar__98"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/kedar-makode-9833321ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="mailto:kedarmakode1598@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://kedar98.hashnode.dev/series/javascript-fundamentals"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" /></a>
 <a href="https://www.freecodecamp.org/news/author/kedar/"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp" /></a>
-<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
 <p>Whether it's crafting sleek, responsive websites that offer seamless user experiences or automating behind-the-scenes processes to make everything run like clockwork, I'm all about creating smart, efficient solutions that solve real-world problems. To me, it's not just about building something that works it's about building something that works better, faster, and more reliably every time. I am also RHCSA certified with Ansible RHCE certification coming soon.</p>

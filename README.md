@@ -8,7 +8,7 @@
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <br />
 <br />
-<p>Whether it's crafting sleek, responsive websites that offer seamless user experiences or automating behind-the-scenes processes to make everything run like clockwork, I'm all about creating smart, efficient solutions that solve real-world problems. To me, it's not just about building something that works it's about building something that works better, faster, and more reliably every time.</p>
+<p>Whether it's crafting sleek, responsive websites that offer seamless user experiences or automating behind-the-scenes processes to make everything run like clockwork, I'm all about creating smart, efficient solutions that solve real-world problems. To me, it's not just about building something that works it's about building something that works better, faster, and more reliably every time. I am also RHCSA certified with Ansible RHCE certification coming soon.</p>
 
 ### Technologies & Tools
 <p>
